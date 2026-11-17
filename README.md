@@ -201,7 +201,7 @@ Python is the preferred backend technology for this initiative because of its ma
 | Django | Web application framework |
 | Django Admin | Administrative management |
 | Django REST Framework | API development |
-| PostgreSQL | Primary database |
+| PostgreSQL | Primary database | Currently using Sqlite
 | HTML5 | Frontend structure |
 | Tailwind CSS | Responsive interface |
 | JavaScript | Frontend interactions |
